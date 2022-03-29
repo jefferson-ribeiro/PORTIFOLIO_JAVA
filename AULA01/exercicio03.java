@@ -12,8 +12,6 @@ public class exercicio03 {
         for (int i =1; i <=limite; i++){
             System.out.print(i+" ");
         }
-
         teclado.close();
-
     }
 }

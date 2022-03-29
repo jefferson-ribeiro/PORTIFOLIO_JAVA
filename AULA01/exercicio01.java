@@ -20,7 +20,7 @@ public class exercicio01 {
         nota2 = teclado.nextDouble();
 
         media = (nota1 + nota2)/2;
-        System.out.println("A mÃ©dia do aluno Ã©: "+ media);
+        System.out.println("A média do aluno é: "+ media);
 
         teclado.close();
     }
